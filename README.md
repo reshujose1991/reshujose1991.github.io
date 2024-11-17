@@ -1,2 +1,3 @@
 # reshmajose.github.io
-Hello, I am Reshma Jose working as a post doctoral fellow in weizmann institute of science.
+Hello, I am Reshma Jose, and I am working as a post-doctoral fellow at Weizmann Institute of Science.
+Topic of interest: Computational chemistry, material Science
